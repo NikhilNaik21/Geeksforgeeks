@@ -1,1 +1,1 @@
-# Geeksfrogeeks
+# Geeksforgeeks
